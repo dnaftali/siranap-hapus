@@ -32,8 +32,8 @@ public class SiranapHapus {
      * @param args the command line arguments
      */
     //Web Service header
-    private static final String xrsid = "1101015";
-    private static final String xpass = "12345";
+    private static final String xrsid = "KodeRSKemenkes";
+    private static final String xpass = "PasswordSIRSOnline";
     private static final String strURLSiranap = "http://sirs.yankes.kemkes.go.id/sirsservice/sisrute/hapusdata/";
 
     // Generate MD5
